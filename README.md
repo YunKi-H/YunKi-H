@@ -2,7 +2,7 @@
 <div align="center">
 
 42Seoul Cadet 'yuhwang'</br>
-Want to be iOS developer</br>
+iOS developer</br>
 
 </div>
 
