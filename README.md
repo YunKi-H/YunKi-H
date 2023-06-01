@@ -1,8 +1,8 @@
 <h2 align="center"> 🎤 Introduction </h2>
 <div align="center">
 
-42Seoul Cadet 'yuhwang'</br>
 iOS developer</br>
+42Seoul Cadet 'yuhwang'</br>
 
 </div>
 
