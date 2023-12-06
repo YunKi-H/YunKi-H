@@ -2,7 +2,7 @@
 <div align="center">
 
 iOS developer</br>
-42Seoul Cadet 'yuhwang'</br>
+42Seoul Member 'yuhwang'</br>
 
 </div>
 
