@@ -3,6 +3,7 @@
 
 iOS developer</br>
 42Seoul Member 'yuhwang'</br>
+Apple Developer Academy @ POSTECH 'Pawn'</br>
 
 </div>
 
