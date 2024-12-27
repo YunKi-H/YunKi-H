@@ -31,7 +31,7 @@ Apple Developer Academy @ POSTECH 'Pawn'</br>
 <a href="https://github.com/YunKi-H" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/YunKi-H/RESUME" target="_blank">
+<a href="https://aluminum-protest-eb9.notion.site/iOS-Developer-165b3b38df368026a6c0d6b2e22cf43e?pvs=4" target="_blank">
 <img src="https://img.shields.io/badge/Resume-821315?style=for-the-badge&logoColor=white" style="margin-bottom: 5px;"/></a>
 <a href="https://www.linkedin.com/in/yunkih/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
