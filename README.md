@@ -2,7 +2,7 @@
 <div align="center">
 
 iOS developer</br>
-42Seoul Member 'yuhwang'</br>
+42Seoul Alumni 'yuhwang'</br>
 Apple Developer Academy @ POSTECH 'Pawn'</br>
 
 </div> </br>
